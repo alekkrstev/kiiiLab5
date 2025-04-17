@@ -42,4 +42,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: krstev1716/kiiiLab5:latest
+          tags: krstev1716/kiiilab5:latest
